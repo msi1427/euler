@@ -5,7 +5,7 @@
 
 # Books
 
-
+- [Convex Optimization](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) - Stephen Boyd and Lieven Vandenberghe
 
 # Tools
 
